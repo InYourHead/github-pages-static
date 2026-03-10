@@ -45,6 +45,7 @@
               "base": "docs",
               "browser": ""
             },
+            "baseHref": "/github-pages-static/",
             "deleteOutputPath": true,
             "index": "src/index.html",
             "browser": "src/main.ts",
